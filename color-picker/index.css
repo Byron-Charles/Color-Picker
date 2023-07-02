@@ -38,6 +38,7 @@ button {
   padding: 20px 30px;
   font-weight: bold;
   color: white;
+  cursor: pointer;
 }
 
 .colors-div {
